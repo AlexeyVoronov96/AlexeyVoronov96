@@ -2,24 +2,9 @@
 ##### I'm Alexey, an iOS Developer with over 4 years of experience in developing mobile apps.
 ### My environment
 Swift, RxSwift, iOS SDK, SwiftUI, Combine, XCTest
-### Contacts
+###  Contacts
 LinkedIn: [AlexeyVoronov96](https://www.linkedin.com/in/alexeyvoronov96)
 
-Telegram: [alexey_voronov](https://wwww.t.me/alexey_voronov)
+Telegram: [alexey_voronov](https://t.me/alexey_voronov)
 
 Email: alexey.voronov3@icloud.com
-
-<!--
-**AlexeyVoronov96/AlexeyVoronov96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
