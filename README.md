@@ -8,3 +8,5 @@ LinkedIn: [AlexeyVoronov96](https://www.linkedin.com/in/alexeyvoronov96)
 Telegram: [alexey_voronov](https://t.me/alexey_voronov)
 
 Email: alexey.voronov3@icloud.com
+
+My CV: [CV.pdf](https://github.com/AlexeyVoronov96/AlexeyVoronov96/files/8998433/CV.pdf)
