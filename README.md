@@ -1,5 +1,5 @@
 ### Hi there 👋
-##### I'm Alexey, an iOS Developer with over 5 years of experience in developing mobile apps. Currently working at [**Tochka, JLC**](https://www.tochka.com), fintech-service for business
+##### I'm Alexey, an iOS Developer with over 5 years of experience in developing mobile apps. Currently working at [**Tochka, JLC**](https://www.tochka.com), a fintech-service for business
 ### My environment 👨🏼‍💻
 Swift, RxSwift, iOS SDK, SwiftUI, Combine, XCTest
 ### Contacts 📇
