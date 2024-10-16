@@ -1,5 +1,5 @@
 ### Hi there 👋
-##### I'm Alexey, an iOS Developer with over 6 years of experience in developing mobile apps. Currently working at [**Tochka, JLC**](https://www.tochka.com), a fintech-service for business
+##### I'm Alexey, an iOS Developer with over 6 years of experience in developing mobile apps. Currently working at [**Wildberries**](https://www.wildberries.ru), the largest russian marketplace with 30 million + daily active users.
 ### My environment 👨🏼‍💻
 Swift, RxSwift, iOS SDK, SwiftUI, UIKit, Combine, XCTest
 ### Contacts 📇
